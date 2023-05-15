@@ -1,5 +1,6 @@
 ### Olá sou Rennan Soares
 
+um apaixonado por tecnologia estudando para ser um futuro desenvolvedor frontend.
 <!--
 **rennansoaresdev/rennansoaresdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
