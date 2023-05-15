@@ -1,7 +1,7 @@
 ### Olá 👋 Eu sou Rennan Soares
 
 
-Um apaixonado por tecnologia, natureza e viajens.\
+Um apaixonado por tecnologia, natureza e viagens.\
 atualmente estudando para ser um futuro desenvolvedor frontend.
 
 
