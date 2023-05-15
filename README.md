@@ -4,14 +4,13 @@
 Um apaixonado por tecnologia, natureza e viajens.\
 atualmente estudando para ser um futuro desenvolvedor frontend.
 
---------------------
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
 * 🧠 Estou estudando sobre HTML, CSS e Javascript
 
 
 
-### Contatos
+### Contatos:
 <p>
     <a href="https://www.github.com/rennansoaresdev" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
