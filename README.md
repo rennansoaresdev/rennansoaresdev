@@ -1,15 +1,15 @@
 ### Olá 👋 Eu sou Rennan Soares
-================================
+--------------------
 
 Um apaixonado por tecnologia, natureza e viajens.\
 atualmente estudando para ser um futuro desenvolvedor frontend.
 
---------------------------------
+--------------------
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
 * 🧠 Estou estudando sobre HTML, CSS e Javascript
 
---------------------------------
+--------------------
 
 ### Contato:
 <p>
