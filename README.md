@@ -1,6 +1,6 @@
 ### Olá 👋 Eu sou Rennan Soares
 
-Um apaixonado por tecnologia, natureza e viajens.
+Um apaixonado por tecnologia, natureza e viajens.<br>
 atualmente estudando para ser um futuro desenvolvedor frontend.
 
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
