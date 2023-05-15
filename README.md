@@ -8,7 +8,7 @@ atualmente estudando para ser um futuro desenvolvedor frontend.
 * 🌍 Eu nasci e moro em São Paulo 🇧🇷
 * 🧠 Estou estudando sobre HTML, CSS e Javascript
 
-
+----
 
 ### Contatos:
 <p>
