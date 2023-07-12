@@ -1,16 +1,17 @@
-### Olá 👋 Eu sou Rennan Soares
+### Hi 👋 I'm Rennan Soares
 
 
-Um apaixonado por tecnologia, natureza e viagens.\
-atualmente estudando para ser um futuro desenvolvedor frontend.
+I'm passionate about tecnology, nature and travelling.\
+currently studying to be a future frontend developer.
 
 
-* 🌍 Eu nasci e moro em São Paulo 🇧🇷
-* 🧠 Estou estudando sobre HTML, CSS e Javascript
+* 🌍 Born and living in São Paulo - Brazil 🇧🇷
+* 🧠 I'm studying HTML, CSS and Javascript
+* ⚡ Fun fact: I love training at the gym ! 🏋🏽‍♀️
 
 ----
 
-### Contatos:
+### Reach me::
 <p>
     <a href="https://www.github.com/rennansoaresdev" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
