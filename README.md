@@ -1,7 +1,7 @@
 ### Hi 👋 I'm Rennan Soares
 
 
-I'm passionate about tecnology, nature and travelling.\
+I'm passionate about technology, nature and travelling.\
 currently studying to be a future frontend developer.
 
 
