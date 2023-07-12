@@ -11,7 +11,7 @@ currently studying to be a future frontend developer.
 
 ----
 
-### Reach me::
+### Reach me:
 <p>
     <a href="https://www.github.com/rennansoaresdev" target="_blank" rel="noreferrer">
         <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
